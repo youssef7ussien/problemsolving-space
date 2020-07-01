@@ -41,13 +41,13 @@ Find the detailed contents and problem list of **HackerRank** here: [Table Of Co
 
 ### Agenda of [Problem Solving](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Problem%20Solving)
 
-- #####  [Algorithms](https://www.hackerrank.com/domains/algorithms)
+- #####  [Algorithms](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Problem%20Solving/Algorithms)
 
 | Category                  | Problems     |
 | --------------------------|:------------:|
 | [Implementation](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Interview%20Preparation%20Kit/Arrays)                    | 10 problems |
 
-- #####  [Data Structures](https://www.hackerrank.com/domains/data-structures)
+- #####  [Data Structures](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Problem%20Solving/Data%20Structures)
 | Category                  | Problems     |
 | --------------------------|:------------:|
 | [Arrays](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Problem%20Solving/Data%20Structures/Array)                  | 3 problems |
