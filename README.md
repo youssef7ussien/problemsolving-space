@@ -36,7 +36,7 @@ Find the detailed contents and problem list of **HackerRank** here: [Table Of Co
 | --------------------------|:------------:|
 | [Arrays](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Interview%20Preparation%20Kit/Arrays)                    | 5/5 problems |
 | [Warm-up Challenges](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Interview%20Preparation%20Kit/Dictionaries%20and%20Hashmaps)        | 4/4 problems |
-| [Dictionaries and Hashmaps](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Interview%20Preparation%20Kit/Warm-up%20Challenges) | 2/5 problems |
+| [Dictionaries and Hashmaps](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Interview%20Preparation%20Kit/Warm-up%20Challenges) | 3/5 problems |
 
 
 

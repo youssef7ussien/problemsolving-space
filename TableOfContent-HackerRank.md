@@ -20,7 +20,7 @@
 
   <a name="Interview"></a>
 
-- ### [Arrays](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Interview%20Preparation%20Kit/Arrays)
+- ### [Arrays](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Interview%20Preparation%20Kit/Arrays) (5/5 problems)
 
   <a name="InterviewArrays"></a>
 
@@ -34,7 +34,7 @@
 
 
 
-- ### [Dictionaries and Hashmaps](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Interview%20Preparation%20Kit/Dictionaries%20and%20Hashmaps)
+- ### [Dictionaries and Hashmaps](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Interview%20Preparation%20Kit/Dictionaries%20and%20Hashmaps) (3/5 problems)
 
   <a name="Dictionaries"></a>
 
@@ -42,11 +42,12 @@
 |:--|:-:|
 | [Hash Tables -  Ransom Note](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Interview%20Preparation%20Kit/Dictionaries%20and%20Hashmaps/Hash%20Tables%20-%20%20Ransom%20Note) | [HackerRank](https://www.hackerrank.com/challenges/two-strings?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps) |
 | [Two Strings](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Interview%20Preparation%20Kit/Dictionaries%20and%20Hashmaps/Two%20Strings) | [HackerRank](https://www.hackerrank.com/challenges/ctci-ransom-note?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps) |
+| [Count Triplets](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Interview%20Preparation%20Kit/Dictionaries%20and%20Hashmaps/Count%20Triplets) | [HackerRank](https://www.hackerrank.com/challenges/count-triplets-1?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps) |
 
 
 
 
-- ### [Warm-up Challenges](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Interview%20Preparation%20Kit/Warm-up%20Challenges)
+- ### [Warm-up Challenges](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Interview%20Preparation%20Kit/Warm-up%20Challenges) (4/4 problems)
 
   <a name="WarmUpChallenges"></a>
 
@@ -98,6 +99,7 @@
 | Problem |  |
 |:--|:-:|
 | [2D Array - DS](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Problem%20Solving/Data%20Structures/Arrays/2D%20Array%20-%20DS) | [HackerRank](https://www.hackerrank.com/challenges/2d-array/problem) |
+| [Left Rotation](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Problem%20Solving/Data%20Structures/Arrays/Left%20Rotation) | [HackerRank](https://www.hackerrank.com/challenges/array-left-rotation/problem) |
 | [Dynamic Array](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Problem%20Solving/Data%20Structures/Arrays/Dynamic%20Array) | [HackerRank](hackerrank.com/challenges/dynamic-array/problem) |
 | [Array Manipulation](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Problem%20Solving/Data%20Structures/Arrays/Array%20Manipulation) | [HackerRank](https://www.hackerrank.com/challenges/crush/problem) |
 

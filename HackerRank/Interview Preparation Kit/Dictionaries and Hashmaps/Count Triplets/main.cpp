@@ -1,110 +1,91 @@
 #include <iostream>
-
+#include <unordered_map>
 using namespace std;
 
-int countTriplets(int arr[],int Size,int commonRatio)
+/**
+ * A solution will be to represent our triplets by ( a_j/r , a_j , a_j*r )
+ *  , where r is the common ratio and 0 <= j < n
+ *  So, we need to find a_i=a_j/r and a_j*r where j < i < k
+ *  We use two maps. Let's call them right and left. Initially, in the right map we
+ *  store the frequency of all the elements. Now, as we traverse the
+ *  array elements from left side, we first decrement it's count from right
+ *  map by 1, then we check the count of a_j*r in the right map and the count of check a_j/r
+ *  in the left map. We, increment our answer by right(a_j*r) * left(a_j/r)
+ *  At last we increment the count of a_j in the left map by 1.
+ *
+ *  example :
+ *  4 2
+ *  1 2 2 4
+ *
+ *  -------------------
+ *  solution :
+ *
+ *  right map = 0 1 2 0 4
+ *  left map  = 0 0 0 0 0
+ *  counter = 0
+ *
+ *  for loop i < 4
+ *
+ *  when i = 0 , a_i = 1
+ *      right = 0 0 2 0 1
+ *      check if( a_i % r = 0 && i < size-1 ) -> ( 1%2 = 0 && i=0 < 3 ) -> false
+ *               , i < size-1 In order not to create places in the map it will not be used
+ *
+ *      left  = 0 1 0 0 0
+ *
+ *  when i = 1 , a_i = 2
+ *      right = 0 0 1 0 1
+ *      check if( a_i % r = 0 && i < size-1 ) -> ( 2%2 = 0 && i=1 < 3 ) -> true
+ *          counter = counter + ( right(2*2) * left(2/2) ) = 0 + ( 1 * 1 ) = 1
+ *      left  = 0 1 1 0 0
+ *
+ *
+ *  when i = 2 , a_i = 2
+ *      right = 0 0 0 0 1
+ *      check if( a_i % r = 0 && i < size-1 ) -> ( 2%2 = 0 && i=2 < 3 ) -> true
+ *          counter = counter + ( right(2*2) * left(2/2) ) = 1 + ( 1 * 1 ) = 2
+ *      left  = 0 1 2 0 0
+ *
+ *  when i = 3 , a_i = 4
+ *      right = 0 0 0 0 0
+ *      check if( a_i % r = 0 && i < size-1 ) -> ( 4%2 = 0 && i=3 < 3 ) -> false
+ *
+ *      left  = 0 1 2 0 1
+ *
+ *  In the end, the counter = 2
+ */
+
+long long countTriplets(long long arr[],int size,long long commonRatio)
 {
-    int counter=0;
-    for(int i=0;i<Size-2;i++)
+    long long counter=0;
+    unordered_map<long long, long long> left, right;
+
+    for (int i=0 ; i<size ; i++)
+        right[arr[i]]++;
+
+    for (int i=0 ; i<size ; i++)
     {
-        int j=i+1,k=i+2;
-        while(j>i && k<Size)
-        {
-            if(arr[j]/arr[i]==commonRatio && arr[j]/arr[i]==arr[k]/arr[j])
-            {
-                cout<<arr[i]<<" "<<arr[j]<<" "<<arr[k]<<"  |  "<<i<<" "<<j<<" "<<k<<endl;
-                counter++;
-                k++;
-                j++;
-            }
-            if(arr[j]%arr[i]==0 && arr[k]%arr[j]==0)
-            {
-                if(arr[j]/arr[i]<arr[k]/arr[j])
-                    j--;
-                else k++;
-            }
-            else if (arr[j]%arr[i]==0)
-                k++;
-            else j--;
-        }
+        right[arr[i]]--;
+        if(arr[i]%commonRatio==0 && i<size-1)
+            counter+=right[arr[i]*commonRatio]*left[arr[i]/commonRatio];
+
+        left[arr[i]]++;
     }
-    /*for(int j=1;j<Size-1;j++)
-    {
-        int i=j-1,k=j+1;
-        while(i>=0 && k<Size)
-        {
-            while(arr[j]%arr[i]==0 && arr[k]%arr[j]==0 && arr[j]/arr[i]==arr[k]/arr[j])
-            {
-                cout<<arr[i]<<" "<<arr[j]<<" "<<arr[k]<<"  |  "<<i<<" "<<j<<" "<<k<<endl;
-                counter++;
-                k++;
-                i--;
-            }
-            if(arr[j]%arr[i]==0 && arr[k]%arr[j]==0)
-            {
-                if(arr[j]/arr[i]<arr[k]/arr[j])
-                    i--;
-                else k++;
-            }
-            else if (arr[j]%arr[i]==0)
-                k++;
-            else i--;
-        }
-    }*/
     return counter;
 }
+
 int main()
 {
-    int Size,commonRatio;
-    cin>>Size>>commonRatio;
-    int arr[Size];
-    for(int i=0;i<Size;i++)
+    int size;
+    long long commonRatio;
+    cin>>size>>commonRatio;
+
+    long long *arr=new long long[size];
+    for(int i=0 ; i<size ; i++)
         cin>>arr[i];
-    cout<<countTriplets(arr,Size,commonRatio)<<endl;
+
+    cout<<countTriplets(arr,size,commonRatio)<<endl;
+
+    delete[] arr;
     return 0;
-}
-
-
-
-long long subsequences(int a[], int n, int r)
-{
-    // hashing to maintain left and right array
-    // elements to the main count
-    unordered_map<int, int> left, right;
-
-    // stores the answer
-    long long ans = 0;
-
-    // traverse through the elements
-    for (int i = 0; i < n; i++)
-        right[a[i]]++; // keep the count in the hash
-
-    // traverse through all elements
-    // and find out the number of elements as k1*k2
-    for (int i = 0; i < n; i++)
-    {
-
-        // keep the count of left and right elements
-        // left is a[i]/r and right a[i]*r
-        long long c1 = 0, c2 = 0;
-
-        // if the current element is divisible by k,
-        // count elements in left hash.
-        if (a[i] % r == 0)
-            c1 = left[a[i] / r];
-
-        // decrease the count in right hash
-        right[a[i]]--;
-
-        // number of right elements
-        c2 = right[a[i] * r];
-
-        // calculate the answer
-        ans += c1 * c2;
-
-        left[a[i]]++; // left count of a[i]
-    }
-
-    // returns answer
-    return ans;
 }
