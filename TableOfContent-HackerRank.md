@@ -34,7 +34,7 @@
 
 
 
-- ### [Dictionaries and Hashmaps](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Interview%20Preparation%20Kit/Dictionaries%20and%20Hashmaps) (3/5 problems)
+- ### [Dictionaries and Hashmaps](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Interview%20Preparation%20Kit/Dictionaries%20and%20Hashmaps) (4/5 problems)
 
   <a name="Dictionaries"></a>
 
@@ -43,6 +43,7 @@
 | [Hash Tables -  Ransom Note](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Interview%20Preparation%20Kit/Dictionaries%20and%20Hashmaps/Hash%20Tables%20-%20%20Ransom%20Note) | [HackerRank](https://www.hackerrank.com/challenges/two-strings?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps) |
 | [Two Strings](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Interview%20Preparation%20Kit/Dictionaries%20and%20Hashmaps/Two%20Strings) | [HackerRank](https://www.hackerrank.com/challenges/ctci-ransom-note?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps) |
 | [Count Triplets](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Interview%20Preparation%20Kit/Dictionaries%20and%20Hashmaps/Count%20Triplets) | [HackerRank](https://www.hackerrank.com/challenges/count-triplets-1?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps) |
+| [Sherlock and Anagrams](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Interview%20Preparation%20Kit/Dictionaries%20and%20Hashmaps/Sherlock%20and%20Anagrams) | [HackerRank](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps) |
 
 
 
@@ -70,7 +71,7 @@
   ### [Algorithms](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Problem%20Solving/Algorithms)
 
   <a name="Algorithms"></a>    
-  - #### [Implementation](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Problem%20Solving/Algorithms/Implementation)
+  - #### [Implementation](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Problem%20Solving/Algorithms/Implementation) (10 problems)
 
   <a name="Implementation"></a>
 
@@ -92,7 +93,7 @@
 - ### [Data Structures](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Problem%20Solving/Data%20Structures)
 
   <a name="DataStructures"></a>    
-  - #### [Arrays](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Problem%20Solving/Data%20Structures/Arrays)
+  - #### [Arrays](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Problem%20Solving/Data%20Structures/Arrays) (4 problems)
 
   <a name="ProblemArrays"></a>
 

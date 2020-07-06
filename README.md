@@ -8,10 +8,13 @@ This repo contains the following sections
 
 - [Codeforces](#Codeforces)
 - [HackerRank](#HackerRank)
+- [UVA Online Judge](#UVA)
 
 Find the detailed contents and problem list of **Codeforces** here: [Table Of Contents](https://github.com/youssef7ussien/ProblemSolving/blob/master/TableOfContent-Codeforces.md) <br>
 
-Find the detailed contents and problem list of **HackerRank** here: [Table Of Contents](https://github.com/youssef7ussien/ProblemSolving/blob/master/TableOfContent-HackerRank.md)
+Find the detailed contents and problem list of **HackerRank** here: [Table Of Contents](https://github.com/youssef7ussien/ProblemSolving/blob/master/TableOfContent-HackerRank.md)<br>
+
+Find the detailed contents and problem list of **UVA Online Judge** here: [Table Of Contents](https://github.com/youssef7ussien/ProblemSolving/blob/master/TableOfContent-UVAOnlineJudge.md)
 
 
 
@@ -21,7 +24,7 @@ Find the detailed contents and problem list of **HackerRank** here: [Table Of Co
 | Category                                                     |  Problems   |
 | :----------------------------------------------------------- | :---------: |
 | [A](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A) | 39 problems |
-| [B](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B) | 20 problems |
+| [B](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B) | 21 problems |
 | [C](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/C) | 1 problems  |
 
 
@@ -35,8 +38,8 @@ Find the detailed contents and problem list of **HackerRank** here: [Table Of Co
 | Category                  | Problems     |
 | --------------------------|:------------:|
 | [Arrays](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Interview%20Preparation%20Kit/Arrays)                    | 5/5 problems |
-| [Warm-up Challenges](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Interview%20Preparation%20Kit/Dictionaries%20and%20Hashmaps)        | 4/4 problems |
-| [Dictionaries and Hashmaps](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Interview%20Preparation%20Kit/Warm-up%20Challenges) | 3/5 problems |
+| [Warm-up Challenges](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Interview%20Preparation%20Kit/Warm-up%20Challenges)        | 4/4 problems |
+| [Dictionaries and Hashmaps](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Interview%20Preparation%20Kit/Dictionaries%20and%20Hashmaps) | 4/5 problems |
 
 
 
@@ -53,3 +56,12 @@ Find the detailed contents and problem list of **HackerRank** here: [Table Of Co
 | :-------------------------|:------------:|
 | [Arrays](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Problem%20Solving/Data%20Structures/Arrays)                 | 3 problems |
 
+
+
+## [UVA Online Judge](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge)
+
+<a name="UVA"></a>
+
+| Problems     |
+|:------------:|
+| 1 problems |

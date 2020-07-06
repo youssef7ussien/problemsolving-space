@@ -9,7 +9,7 @@
 
 
 
-## [A problems](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A)
+## [A problems](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A) (39 problems)
 
 <a name="A"></a>
 
@@ -57,7 +57,7 @@
 
 
 
-## [B problems](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B)
+## [B problems](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B) (21 problems)
 
 <a name="B"></a>
 
@@ -75,6 +75,7 @@
 | [T-primes](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/230B%20-%20T-primes) | [230B](https://codeforces.com/problemset/problem/230/B) |
 | [Fence](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/363B%20-%20Fence) | [363B](https://codeforces.com/problemset/problem/363/B) |
 | [Worms](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/474B%20-%20Worms) | [474B](https://codeforces.com/problemset/problem/474/B) |
+| [Sort the Array](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/451B%20-%20Sort%20the%20Array) | [451B](https://codeforces.com/problemset/problem/451/B) |
 | [Vanya and Lanterns](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/492B%20-%20Vanya%20and%20Lanterns) | [492B](https://codeforces.com/problemset/problem/492/B) |
 | [Two Buttons](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/520B%20-%20%20Two%20Buttons) | [520B](https://codeforces.com/problemset/problem/520/B) |
 | [Bear and Finding Criminals](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/680B%20-%20%20Bear%20and%20Finding%20Criminals) | [680B](https://codeforces.com/problemset/problem/680/B) |
@@ -86,7 +87,7 @@
 
 
 
-## [C problems](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/C)
+## [C problems](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/C) (1 problems)
 
 <a name="C"></a>
 
