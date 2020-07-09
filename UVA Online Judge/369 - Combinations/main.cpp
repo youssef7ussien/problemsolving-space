@@ -1,5 +1,6 @@
-#include <iostream>
+// To understand the problem go to: https://algorithmist.com/wiki/UVa_369_-_Combinations
 
+#include <iostream>
 using namespace std;
 
 int main()
@@ -7,23 +8,19 @@ int main()
     int N,M;
     while((cin>>N>>M) && (N && M))
     {
-        int i;
-        long long fact=1,C=1;
-        if(N-M>M)
+        long long K=1,result=1;
+
+        for(int i=0; i<min(N-M, M) ; i++)
         {
-            i=(N-M)+1;
-            for(int j=2;j<=M;j++)
-                fact*=j;
+            result*=N-i;
+            K*=i+1;
+            if(result%K==0)
+            {
+                result=(result/K);
+                K=1;
+            }
         }
-        else
-        {
-            i=M+1;
-            for(int j=2;j<=N-M;j++)
-                fact*=j;
-        }
-        for(;i<=N;i++)
-            C*=i;
-        cout<<N<<" things taken "<<M<<" at a time is "<<C/fact<<" exactly."<<endl;
+        cout<<N<<" things taken "<<M<<" at a time is "<<result<<" exactly."<<endl;
     }
     return 0;
 }
