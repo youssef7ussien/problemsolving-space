@@ -87,10 +87,11 @@
 
 
 
-## [C problems](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/C) (1 problems)
+## [C problems](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/C) (2 problems)
 
 <a name="C"></a>
 
 |     Problem                   | Codeforces   |
 | ---------------------- | :-----------------------: |
 |[Registration system](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/C/4C%20-%20Registration%20system) | [4c](https://codeforces.com/problemset/problem/4/c) |
+|[Drazil and Factorial](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/C/515C%20-%20Drazil%20and%20Factorial) | [515C](https://codeforces.com/problemset/problem/515/c) |

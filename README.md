@@ -25,7 +25,7 @@ Find the detailed contents and problem list of **UVA Online Judge** here: [Table
 | :----------------------------------------------------------- | :---------: |
 | [A](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A) | 39 problems |
 | [B](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B) | 21 problems |
-| [C](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/C) | 1 problems  |
+| [C](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/C) | 2 problems  |
 
 
 
@@ -64,4 +64,5 @@ Find the detailed contents and problem list of **UVA Online Judge** here: [Table
 
 | Problems     |
 |:------------:|
-| 1 problems |
+| 3 problems |
+
