@@ -33,28 +33,33 @@ Find the detailed contents and problem list of **UVA Online Judge** here: [Table
 
 <a name="HackerRank"></a>
 
-### Agenda of [Interview Preparation Kit](https://www.hackerrank.com/interview/interview-preparation-kit)
+- ### Agenda of [Interview Preparation Kit](https://www.hackerrank.com/interview/interview-preparation-kit)
 
-| Category                  | Problems     |
-| --------------------------|:------------:|
-| [Arrays](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Interview%20Preparation%20Kit/Arrays)                    | 5/5 problems |
-| [Warm-up Challenges](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Interview%20Preparation%20Kit/Warm-up%20Challenges)        | 4/4 problems |
-| [Dictionaries and Hashmaps](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Interview%20Preparation%20Kit/Dictionaries%20and%20Hashmaps) | 4/5 problems |
+  | Category                  | Problems     |
+  | --------------------------|:------------:|
+  | [Arrays](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Interview%20Preparation%20Kit/Arrays)                    | 5/5 problems |
+  | [Warm-up Challenges](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Interview%20Preparation%20Kit/Warm-up%20Challenges)        | 4/4 problems |
+  | [Dictionaries and Hashmaps](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Interview%20Preparation%20Kit/Dictionaries%20and%20Hashmaps) | 5/5 problems |
 
 
 
-### Agenda of [Problem Solving](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Problem%20Solving)
+- ### Agenda of [Problem Solving](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Problem%20Solving)
+  - #####  [Algorithms](https://www.hackerrank.com/domains/algorithms)
 
-- #####  [Algorithms](https://www.hackerrank.com/domains/algorithms)
-
-| Category                  | Problems     |
-| --------------------------|:------------:|
-| [Implementation](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Problem%20Solving/Algorithms/Implementation)                    | 10 problems |
-
-- #####  [Data Structures](https://www.hackerrank.com/domains/data-structures)
-| Category                  | Problems     |
-| :-------------------------|:------------:|
-| [Arrays](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Problem%20Solving/Data%20Structures/Arrays)                 | 3 problems |
+    | Category                  | Problems     |
+    | --------------------------|:------------:|
+    | [Implementation](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Problem%20Solving/Algorithms/Implementation)                    | 10 problems |
+    | [Strings](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Problem%20Solving/Algorithms/Strings)                  | 2 problems |
+    | [Constructive Algorithms](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Problem%20Solving/Algorithms/Constructive%20Constructive)                   | 1 problems |
+    
+  
+  
+  
+    - #####  [Data Structures](https://www.hackerrank.com/domains/data-structures)
+  
+      | Category                  | Problems     |
+      | :-------------------------|:------------:|
+      | [Arrays](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Problem%20Solving/Data%20Structures/Arrays)                 | 5 problems |
 
 
 
