@@ -18,8 +18,8 @@ Find the detailed contents and problem list of **UVA Online Judge** here: [Table
 
 
 
-## [Codeforces](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces)
-<a name="Codeforces"></a>
+## [Codeforces](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces) <a name="Codeforces"></a>
+
 
 | Category                                                     |  Problems   |
 | :----------------------------------------------------------- | :---------: |
@@ -29,9 +29,7 @@ Find the detailed contents and problem list of **UVA Online Judge** here: [Table
 
 
 
-## [HackerRank](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank)
-
-<a name="HackerRank"></a>
+## [HackerRank](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank) <a name="HackerRank"></a>
 
 - ### Agenda of [Interview Preparation Kit](https://www.hackerrank.com/interview/interview-preparation-kit)
 
@@ -59,15 +57,16 @@ Find the detailed contents and problem list of **UVA Online Judge** here: [Table
   
       | Category                  | Problems     |
       | :-------------------------|:------------:|
-      | [Arrays](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Problem%20Solving/Data%20Structures/Arrays)                 | 5 problems |
+      | [Arrays](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Problem%20Solving/Data%20Structures/Arrays)                 | 4 problems |
 
 
 
-## [UVA Online Judge](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge)
+## [UVA Online Judge](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge) <a name="UVA"></a>
 
-<a name="UVA"></a>
-
-| Problems     |
-|:------------:|
-| 3 problems |
+| Category | Problems |
+|:------------:|:------------:|
+| [Volume 2](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%202) | 1 problems |
+| [Volume 3](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%203) | 2 problems |
+| [Volume 5](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%205) | 1 problems |
+| [Volume 101](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%20101) | 1 problems |
 
