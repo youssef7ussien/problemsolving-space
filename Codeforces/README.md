@@ -1,17 +1,12 @@
 # Codeforces problems
 
-
-
 ## Content
+
 - [A](#A)
 - [B](#B)
 - [C](#C)
 
-
-
-## [A problems](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A) (39 problems)
-
-<a name="A"></a>
+## [A problems](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A) (40 problems) <a name="A"></a>
 
 |     Problem                   | Codeforces   |
 | ---------------------- | :-----------------------: |
@@ -20,8 +15,8 @@
 | [Way Too Long Words](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/71A%20-%20Way%20Too%20Long%20Words)  | [71A](https://codeforces.com/problemset/problem/71/A)   |
 | [Nearly Lucky Number](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/110A%20-%20Nearly%20Lucky%20Number) | [110A](https://codeforces.com/problemset/problem/110/A)  |
 | [Petya and Strings](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/112A%20-%20Petya%20and%20Strings) | [112A](https://codeforces.com/contest/112/problem/A) |
-| [String Task](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/118A%20-%20%20String%20Task)  | [118A](https://codeforces.com/problemset/problem/118/A) |
-| [Epic Game](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/119A%20-%20%20Epic%20Game)  | [119A](https://codeforces.com/problemset/problem/119/A) |
+| [String Task](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/118A%20-%20String%20Task)  | [118A](https://codeforces.com/problemset/problem/118/A) |
+| [Epic Game](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/119A%20-%20Epic%20Game)  | [119A](https://codeforces.com/problemset/problem/119/A) |
 | [HQ9+](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/133A%20-%20HQ9%2B)  | [133A](https://codeforces.com/problemset/problem/133/A) |
 | [Twins](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/160A%20-%20Twins)  | [160A](https://codeforces.com/problemset/problem/160/A) |
 | [Dragons](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/230A%20-%20Dragons)  | [230A](https://codeforces.com/problemset/problem/230/A) |
@@ -30,7 +25,8 @@
 | [Beautiful Matrix](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/263A%20-%20Beautiful%20Matrix)  | [263A](https://codeforces.com/problemset/problem/263/A) |
 | [Stones on the Table](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/266A%20-%20Stones%20on%20the%20Table)  | [266A](https://codeforces.com/problemset/problem/266/A) |
 | [Games](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/268A%20-%20Games)  | [268A](https://codeforces.com/problemset/problem/268/A) |
-| [Bit++](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/282A%20-%20%20Bit%2B%2B) | [282A](https://codeforces.com/problemset/problem/282/A) |
+| [Bit++](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/282A%20-%20Bit%2B%2B) | [282A](https://codeforces.com/problemset/problem/282/A) |
+| [Cows and Primitive Roots](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/284A%20-%20Cows%20and%20Primitive%20Roots) | [284A](https://codeforces.com/problemset/problem/284/A) |
 | [Flipping Game](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/327A%20-%20Flipping%20Game)  | [327A](https://codeforces.com/problemset/problem/327/A) |
 | [Helpful Maths](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/339A%20-%20%20Helpful%20Maths)  | [339A](https://codeforces.com/problemset/problem/339/A) |
 | [Magnets](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/344A%20-%20Magnets)  | [344A](https://codeforces.com/problemset/problem/344/A) |
@@ -55,16 +51,12 @@
 | [In Search of an Easy Problem](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/1030A%20-%20%20In%20Search%20of%20an%20Easy%20Problem) | [1030A](https://codeforces.com/problemset/problem/1030/A) |
 | [Game 23](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/1141A%20-%20Game%2023) | [1141A](https://codeforces.com/contest/1141/problem/A) |
 
-
-
-## [B problems](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B) (21 problems)
-
-<a name="B"></a>
+## [B problems](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B) (21 problems) <a name="B"></a>
 
 |     Problem                   | Codeforces   |
 | ---------------------- | :-----------------------: |
 | [President's Office](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/6B%20-%20%20President's%20Office) | [6B](https://codeforces.com/problemset/problem/6/B) |
-| [Sale]() | [34B](https://codeforces.com/problemset/problem/34/B) |
+| [Sale](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/34B%20-%20Sale) | [34B](https://codeforces.com/problemset/problem/34/B) |
 | [Coins](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/47B%20-%20Coins) | [47B](https://codeforces.com/problemset/problem/47/B) |
 | [Petya and Countryside](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/66B%20-%20%20Petya%20and%20Countryside) | [66B](https://codeforces.com/problemset/problem/66/B) |
 | [Colorful Field](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/79B%20-%20Colorful%20Field) | [79B](https://codeforces.com/problemset/problem/79/B) |
@@ -85,11 +77,7 @@
 | [Find The Bone](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/796B%20-%20Find%20The%20Bone) | [796B](https://codeforces.com/problemset/problem/796/B) |
 | [Nick and Array](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/1180B%20-%20%20Nick%20and%20Array) | [1180B](https://codeforces.com/problemset/problem/1180/B) |
 
-
-
-## [C problems](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/C) (2 problems)
-
-<a name="C"></a>
+## [C problems](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/C) (2 problems) <a name="C"></a>
 
 |     Problem                   | Codeforces   |
 | ---------------------- | :-----------------------: |
