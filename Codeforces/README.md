@@ -38,6 +38,7 @@
 | [Keyboard](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/474A%20-%20%20Keyboard)  | [474A](https://codeforces.com/problemset/problem/474/A) |
 | [Calculating Function](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/486A%20-%20Calculating%20Function)  | [486A](https://codeforces.com/problemset/problem/486/A) |
 | [Combination Lock](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/540A-%20Combination%20Lock)  | [540A](https://codeforces.com/problemset/problem/540/A) |
+| [Far Relative's Birthday Cake](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/629A%20-%20Far%20Relative's%20Birthday%20Cake)  | [629A](https://codeforces.com/problemset/problem/629/A) |
 | [Vanya and Fence](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/677A%20-%20Vanya%20and%20Fence)  | [677A](https://codeforces.com/problemset/problem/677/A) |
 | [Free Ice Cream](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/686A%20-%20Free%20Ice%20Cream)  | [686A](https://codeforces.com/problemset/problem/686/A) |
 | [Juicer](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/709A%20-%20Juicer)  | [709A](https://codeforces.com/problemset/problem/709/A) |
@@ -50,6 +51,7 @@
 | [Wrong Subtraction](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/977A%20-%20Wrong%20Subtraction) | [977A](https://codeforces.com/problemset/problem/977/A) |
 | [In Search of an Easy Problem](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/1030A%20-%20%20In%20Search%20of%20an%20Easy%20Problem) | [1030A](https://codeforces.com/problemset/problem/1030/A) |
 | [Game 23](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/1141A%20-%20Game%2023) | [1141A](https://codeforces.com/contest/1141/problem/A) |
+| [Silent Classroom](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/1166A%20-%20Silent%20Classroom) | [1166A](https://codeforces.com/contest/1166/problem/A) |
 
 ## [B problems](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B) (21 problems) <a name="B"></a>
 
