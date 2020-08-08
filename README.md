@@ -56,6 +56,8 @@ Find the detailed contents and problem list of **UVA Online Judge** here: [Table
 |:------------:|:------------:|
 | [Volume 2](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%202) | 1 problems |
 | [Volume 3](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%203) | 2 problems |
-| [Volume 5](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%205) | 1 problems |
+| [Volume 5](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%205)| 2 problems |
+| [Volume 6](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%206)| 1 problems |
+| [Volume 100](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%20100) | 1 problems |
 | [Volume 101](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%20101) | 1 problems |
 | [Volume 105](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%20105) | 1 problems |
