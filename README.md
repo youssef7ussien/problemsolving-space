@@ -7,6 +7,7 @@ This repo contains the following sections
 - [Codeforces](#Codeforces)
 - [HackerRank](#HackerRank)
 - [UVA Online Judge](#UVA)
+- [SPOJ - Sphere Online Judge](#SPOJ)
 
 Find the detailed contents and problem list of **Codeforces** here: [Table Of Contents](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/README.md) <br>
 
@@ -58,6 +59,13 @@ Find the detailed contents and problem list of **UVA Online Judge** here: [Table
 | [Volume 3](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%203) | 2 problems |
 | [Volume 5](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%205)| 2 problems |
 | [Volume 6](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%206)| 1 problems |
+| [Volume 9](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%209)| 1 problems |
 | [Volume 100](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%20100) | 1 problems |
 | [Volume 101](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%20101) | 1 problems |
 | [Volume 105](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%20105) | 1 problems |
+
+## [SPOJ - Sphere Online Judge](https://github.com/youssef7ussien/ProblemSolving/tree/master/SPOJ%20-%20Sphere%20Online%20Judge) <a name="SPOJ"></a>
+
+| Problems |
+|:------------:|
+| 3 problems |
