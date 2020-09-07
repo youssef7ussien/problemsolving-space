@@ -6,7 +6,7 @@
 - [B](#B)
 - [C](#C)
 
-## [A problems](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A) (40 problems) <a name="A"></a>
+## [A problems](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A) (44 problems) <a name="A"></a>
 
 |     Problem                   | Codeforces   |
 | ---------------------- | :-----------------------: |
@@ -50,10 +50,12 @@
 | [Bear and Big Brother](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/791A%20-%20Bear%20and%20Big%20Brother)  | [791A](https://codeforces.com/problemset/problem/791/A) |
 | [Wrong Subtraction](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/977A%20-%20Wrong%20Subtraction) | [977A](https://codeforces.com/problemset/problem/977/A) |
 | [In Search of an Easy Problem](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/1030A%20-%20%20In%20Search%20of%20an%20Easy%20Problem) | [1030A](https://codeforces.com/problemset/problem/1030/A) |
+| [Vova and Train](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/1066A%20-%20Vova%20and%20Train) | [1066A](https://codeforces.com/problemset/problem/1066/A) |
 | [Game 23](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/1141A%20-%20Game%2023) | [1141A](https://codeforces.com/contest/1141/problem/A) |
 | [Silent Classroom](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/1166A%20-%20Silent%20Classroom) | [1166A](https://codeforces.com/contest/1166/problem/A) |
+| [Choose Two Numbers](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/1206A%20-%20Choose%20Two%20Numbers) | [1206A](https://codeforces.com/contest/1166/problem/A) |
 
-## [B problems](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B) (21 problems) <a name="B"></a>
+## [B problems](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B) (22 problems) <a name="B"></a>
 
 |     Problem                   | Codeforces   |
 | ---------------------- | :-----------------------: |
@@ -72,6 +74,7 @@
 | [Sort the Array](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/451B%20-%20Sort%20the%20Array) | [451B](https://codeforces.com/problemset/problem/451/B) |
 | [Vanya and Lanterns](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/492B%20-%20Vanya%20and%20Lanterns) | [492B](https://codeforces.com/problemset/problem/492/B) |
 | [Two Buttons](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/520B%20-%20%20Two%20Buttons) | [520B](https://codeforces.com/problemset/problem/520/B) |
+| [Order Book](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/572B%20-%20Order%20Book) | [572B](https://codeforces.com/problemset/problem/572/B) |
 | [Bear and Finding Criminals](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/680B%20-%20%20Bear%20and%20Finding%20Criminals) | [680B](https://codeforces.com/problemset/problem/680/B) |
 | [Lovely Palindromes](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/688B%20-%20%20Lovely%20Palindromes) | [688B](https://codeforces.com/problemset/problem/688/B) |
 | [Decoding](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/746B%20-%20%20Decoding) | [746B](https://codeforces.com/problemset/problem/746/B) |
@@ -83,5 +86,5 @@
 
 |     Problem                   | Codeforces   |
 | ---------------------- | :-----------------------: |
-|[Registration system](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/C/4C%20-%20Registration%20system) | [4c](https://codeforces.com/problemset/problem/4/c) |
+|[Registration system](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/C/4C%20-%20Registration%20system) | [4C](https://codeforces.com/problemset/problem/4/c) |
 |[Drazil and Factorial](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/C/515C%20-%20Drazil%20and%20Factorial) | [515C](https://codeforces.com/problemset/problem/515/c) |
