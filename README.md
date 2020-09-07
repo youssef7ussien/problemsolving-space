@@ -13,7 +13,9 @@ Find the detailed contents and problem list of **Codeforces** here: [Table Of Co
 
 Find the detailed contents and problem list of **HackerRank** here: [Table Of Contents](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/README.md)<br>
 
-Find the detailed contents and problem list of **UVA Online Judge** here: [Table Of Contents](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/README.md)
+Find the detailed contents and problem list of **UVA Online Judge** here: [Table Of Contents](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/README.md)<br>
+
+Find the detailed contents and problem list of **SPOJ - Sphere Online Judge** here: [Table Of Contents](https://github.com/youssef7ussien/ProblemSolving/tree/master/SPOJ%20-%20Sphere%20Online%20Judge/README.md)
 
 ## [Codeforces](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces) <a name="Codeforces"></a>
 
@@ -32,7 +34,7 @@ Find the detailed contents and problem list of **UVA Online Judge** here: [Table
   | [Arrays](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Interview%20Preparation%20Kit/Arrays)                    | 5/5 problems |
   | [Warm-up Challenges](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Interview%20Preparation%20Kit/Warm-up%20Challenges)        | 4/4 problems |
   | [Dictionaries and Hashmaps](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Interview%20Preparation%20Kit/Dictionaries%20and%20Hashmaps) | 5/5 problems |
-  | [Sorting](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Interview%20Preparation%20Kit/Sorting) | 3/5 problems |
+  | [Sorting](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Interview%20Preparation%20Kit/Sorting) | 5/5 problems |
 
 - ### Agenda of [Problem Solving](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Problem%20Solving)
   
@@ -40,7 +42,7 @@ Find the detailed contents and problem list of **UVA Online Judge** here: [Table
 
     | Category                  | Problems     |
     | --------------------------|:------------:|
-    | [Implementation](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Problem%20Solving/Algorithms/Implementation) | 10 problems |
+    | [Implementation](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Problem%20Solving/Algorithms/Implementation) | 11 problems |
     | [Strings](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Problem%20Solving/Algorithms/Strings) | 2 problems |
     | [Constructive Algorithms](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Problem%20Solving/Algorithms/Constructive%20Constructive) | 1 problems |
     | [Greedy](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Problem%20Solving/Algorithms/Greedy) | 1 problems |
