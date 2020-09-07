@@ -6,6 +6,7 @@
 - [Volume 3](#v3)
 - [Volume 5](#v5)
 - [Volume 6](#v6)
+- [Volume 9](#v9)
 - [Volume 100](#v100)
 - [Volume 101](#v101)
 - [Volume 105](#v105)
@@ -34,8 +35,13 @@
 
 |     Problem                   | UVA | Category |
 | ---------------------- | :-----------------------: | :--------------------- |
-| [500!](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%206/623%20-%20500%20!) | [623](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1039) | BigNum |
+| [500!](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%206/623%20-%20500!) | [623](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=564) | BigNum |
 
+## [Volume 9](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%209) (1 problems) <a name="v9"></a>
+
+|     Problem                   | UVA | Category |
+| ---------------------- | :-----------------------: | :--------------------- |
+| [Permutations](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%209/941%20-%20Permutations) | [941](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=882) | Permutations |
 ## [Volume 100](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%20100) (1 problems) <a name="v100"></a>
 
 |     Problem                   | UVA | Category |
