@@ -23,7 +23,7 @@ Find the detailed contents and problem list of **SPOJ - Sphere Online Judge** he
 | :----------------------------------------------------------- | :---------: |
 | [A](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A) | 44 problems |
 | [B](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B) | 22 problems |
-| [C](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/C) | 2 problems  |
+| [C](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/C) | 4 problems  |
 
 ## [HackerRank](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank) <a name="HackerRank"></a>
 
