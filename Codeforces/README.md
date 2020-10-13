@@ -2,33 +2,97 @@
 
 ## Content
 
-- ### [A](#A)
+<table>
+  <tr>
+    <th colspan="4"><a href="#A">A</a></th>
+  </tr>
+  <tr>
+    <td><a href="#v000A">Volume 000 <sup>(1 - 99)</sup></a></td>
+    <td><a href="#v001A">Volume 001 <sup>(100 - 199)</sup></a></td>
+    <td><a href="#v002A">Volume 002 <sup>(200 - 299)</sup></a></td>
+    <td><a href="#v003A">Volume 003 <sup>(300 - 399)</sup></a></td>
+  </tr>
+  <tr>
+    <td><a href="#v004A">Volume 004 <sup>(400 - 499)</sup></a></td>
+    <td><a href="#v005A">Volume 005 <sup>(500 - 599)</sup></a></td>
+    <td><a href="#v006A">Volume 006 <sup>(600 - 699)</sup></a></td>
+    <td><a href="#v007A">Volume 007 <sup>(700 - 799)</sup></a></td>
+  </tr>
+  <tr>
+    <td><span style="color:red">Volume 008 <sup>(800 - 899)</sup></span></td>
+    <td><a href="#v009A">Volume 009 <sup>(900 - 999)</sup></a></td>
+    <td><a href="#v010A">Volume 010 <sup>(1000 - 1099)</sup></a></td>
+    <td><a href="#v011A">Volume 011 <sup>(1100 - 1199)</sup></a></td>
+  </tr>
+  <tr>
+    <td><a href="#v012A">Volume 012 <sup>(1200 - 1299)</sup></a></td>
+    <td><span style="color:red">Volume 013 <sup>(1300 - 1399)</sup></span></td>
+    <td><a href="#v014A">Volume 014 <sup>(1400 - 1499)</sup></a></td>
+    <td></td>
+  </tr>
+</table>
 
-  |  No.  |  No.  |  No.  |  No.  |
-  | :---: | :---: | :---: | :---: |
-  | [Volume 000 <sup>(1 - 99)</sup>](#v000A) | [Volume 001 <sup>(100 - 199)</sup>](#v001A) | [Volume 002 <sup>(200 - 299)</sup>](#v002A) | [Volume 003 <sup>(300 - 399)</sup>](#v003A) |
-  | [Volume 004 <sup>(400 - 499)</sup>](#v004A) | [Volume 005 <sup>(500 - 599)</sup>](#v005A) | [Volume 006 <sup>(600 - 699)</sup>](#v006A) | [Volume 007 <sup>(700 - 799)</sup>](#v007A) |
-  | <span style="color:red">Volume 008 <sup>(800 - 899)</sup></span> | [Volume 009 <sup>(900 - 999)</sup>](#v009A) | [Volume 010 <sup>(1000 - 1099)</sup>](#v010A) | [Volume 011 <sup>(1100 - 1199)</sup>](#v011A) |
-  | [Volume 012 <sup>(1200 - 1299)</sup>](#v012A) |
+<table>
+  <tr>
+    <th colspan="4"><a href="#B">B</a></th>
+  </tr>
+  <tr>
+    <td><a href="#v000B">Volume 000 <sup>(1 - 99)</sup></a></td>
+    <td><a href="#v001B">Volume 001 <sup>(100 - 199)</sup></a></td>
+    <td><a href="#v002B">Volume 002 <sup>(200 - 299)</sup></a></td>
+    <td><a href="#v003B">Volume 003 <sup>(300 - 399)</sup></a></td>
+  </tr>
+  <tr>
+    <td><a href="#v004B">Volume 004 <sup>(400 - 499)</sup></a></td>
+    <td><a href="#v005B">Volume 005 <sup>(500 - 599)</sup></a></td>
+    <td><a href="#v006B">Volume 006 <sup>(600 - 699)</sup></a></td>
+    <td><a href="#v007B">Volume 007 <sup>(700 - 799)</sup></a></td>
+  </tr>
+  <tr>
+    <td><span style="color:red">Volume 008 <sup>(800 - 899)</sup></span></td>
+    <td><span style="color:red">Volume 009 <sup>(900 - 999)</sup></span></td>
+    <td><span style="color:red">Volume 010 <sup>(1000 - 1099)</sup></span></td>
+    <td><a href="#v011B">Volume 011 <sup>(1100 - 1199)</sup></a></td>
+  </tr>
+  <tr>
+    <td><a href="#v012B">Volume 012 <sup>(1200 - 1299)</sup></a></td>
+    <td><span style="color:red">Volume 013 <sup>(1300 - 1399)</sup></span></td>
+    <td><a href="#v014B">Volume 014 <sup>(1400 - 1499)</sup></a></td>
+    <td></td>
+  </tr>
+</table>
 
-- ### [B](#B)
+<table>
+  <tr>
+    <th colspan="4"><a href="#C">C</a></th>
+  </tr>
+  <tr>
+    <td><a href="#v000C">Volume 000 <sup>(1 - 99)</sup></a></td>
+    <td><span style="color:red">Volume 001 <sup>(100 - 199)</sup></span></td>
+    <td><span style="color:red">Volume 002 <sup>(200 - 299)</sup></span></td>
+    <td><span style="color:red">Volume 003 <sup>(300 - 399)</sup></span></td>
+  </tr>
+  <tr>
+    <td><span style="color:red">Volume 004 <sup>(400 - 499)</sup></span></td>
+    <td><a href="#v005C">Volume 005 <sup>(500 - 599)</sup></a></td>
+    <td><a href="#v006C">Volume 006 <sup>(600 - 699)</sup></a></td>
+    <td><span style="color:red">Volume 007 <sup>(700 - 799)</sup></span></td>
+  </tr>
+  <tr>
+    <td><span style="color:red">Volume 008 <sup>(800 - 899)</sup></span></td>
+    <td><span style="color:red">Volume 009 <sup>(900 - 999)</sup></span></td>
+    <td><span style="color:red">Volume 010 <sup>(1000 - 1099)</sup></span></td>
+    <td><span style="color:red">Volume 011 <sup>(1100 - 1199)</sup></span></td>
+  </tr>
+  <tr>
+    <td><span style="color:red">Volume 012 <sup>(1200 - 1299)</sup></span></td>
+    <td><span style="color:red">Volume 013 <sup>(1300 - 1399)</sup></span></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
-  |  No.  |  No.  |  No.  |  No.  |
-  | :---: | :---: | :---: | :---: |
-  | [Volume 000 <sup>(1 - 99)</sup>](#v000B) | [Volume 001 <sup>(100 - 199)</sup>](#v001B) | [Volume 002 <sup>(200 - 299)</sup>](#v002B) | [Volume 003 <sup>(300 - 399)</sup>](#v003B) |
-  | [Volume 004 <sup>(400 - 499)</sup>](#v004B) | [Volume 005 <sup>(500 - 599)</sup>](#v005B) | [Volume 006 <sup>(600 - 699)</sup>](#v006B) | [Volume 007 <sup>(700 - 799)</sup>](#v007B) |
-  | <span style="color:red">Volume 008 <sup>(800 - 899)</sup></span> | <span style="color:red">Volume 009 <sup>(900 - 999)</sup></span> | <span style="color:red">Volume 010 <sup>(1000 - 1099)</sup></span> | [Volume 011 <sup>(1100 - 1199)</sup>](#v011B) |
-
-- ### [C](#C)
-
-  |  No.  |  No.  |  No.  |  No.  |
-  | :---: | :---: | :---: | :---: |
-  | [Volume 000 <sup>(1 - 99)</sup>](#v000C) | <span style="color:red">Volume 001 <sup>(100 - 199)</sup></span> | <span style="color:red">Volume 002 <sup>(200 - 299)</sup></span>  | <span style="color:red">Volume 003 <sup>(300 - 399)</sup></span> |
-  | <span style="color:red">Volume 004 <sup>(400 - 499)</sup></span> | [Volume 005 <sup>(500 - 599)</sup>](#v005C) | [Volume 006 <sup>(600 - 699)</sup>](#v006C) | <span style="color:red">Volume 007 <sup>(700 - 799)</sup></span> |
-  | <span style="color:red">Volume 008 <sup>(800 - 899)</sup></span> | <span style="color:red">Volume 009 <sup>(900 - 999)</sup></span> | <span style="color:red">Volume 010 <sup>(1000 - 1099)</sup></span> | <span style="color:red">Volume 011 <sup>(1100 - 1199)</sup></span> |
-  | <span style="color:red">Volume 012 <sup>(1200 - 1299)</sup></span> | [Volume 013 <sup>(1300 - 1399)</sup>](#v013C) |
-
-## [A problems](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A) (44 problems) <a name="A"></a>
+## [A problems](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A) (50 problems) <a name="A"></a>
 
 - ### [Volume 000](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/Volume%20000) <sup>(1 - 99) (3 problems)</sup> <a name="v000A"></a>
   
@@ -38,7 +102,7 @@
   | [IQ test](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/Volume%20000/25A%20-%20IQ%20test)  | [25A](https://codeforces.com/problemset/problem/25/A) |
   | [Way Too Long Words](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/Volume%20000/71A%20-%20Way%20Too%20Long%20Words)  | [71A](https://codeforces.com/problemset/problem/71/A)   |
 
-- ### [Volume 001](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/<sup>Volume%20001) <sup>(100 - 199) (6 problems)</sup> <a name="v001A"></a>
+- ### [Volume 001](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/<sup>Volume%20001) <sup>(100 - 199) (7 problems)</sup> <a name="v001A"></a>
   
   | Problem | Codeforces |
   |:-------|:------:|
@@ -46,10 +110,11 @@
   | [Petya and Strings](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/Volume%20001/112A%20-%20Petya%20and%20Strings) | [112A](https://codeforces.com/contest/112/problem/A) |
   | [String Task](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/Volume%20001/118A%20-%20String%20Task)  | [118A](https://codeforces.com/problemset/problem/118/A) |
   | [Epic Game](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/Volume%20001/119A%20-%20Epic%20Game)  | [119A](https://codeforces.com/problemset/problem/119/A) |
+  | [Wasted Time](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/Volume%20001/127A%20-%20Wasted%20Time)  | [127A](https://codeforces.com/contest/127/problem/A) |
   | [HQ9+](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/Volume%20001/133A%20-%20HQ9%2B)  | [133A](https://codeforces.com/problemset/problem/133/A) |
   | [Twins](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/Volume%20001/160A%20-%20Twins)  | [160A](https://codeforces.com/problemset/problem/160/A) |
 
-- ### [Volume 002](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/Volume%20002) <sup>(200 - 299) (8 problems)</sup> <a name="v002A"></a>
+- ### [Volume 002](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/Volume%20002) <sup>(200 - 299) (9 problems)</sup> <a name="v002A"></a>
   
   | Problem | Codeforces |
   |:-------|:------:|
@@ -59,6 +124,7 @@
   | [Beautiful Matrix](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/Volume%20002/263A%20-%20Beautiful%20Matrix)  | [263A](https://codeforces.com/problemset/problem/263/A) |
   | [Stones on the Table](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/Volume%20002/266A%20-%20Stones%20on%20the%20Table)  | [266A](https://codeforces.com/problemset/problem/266/A) |
   | [Games](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/Volume%20002/268A%20-%20Games)  | [268A](https://codeforces.com/problemset/problem/268/A) |
+  | [Fancy Fence](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/Volume%20002/270A%20-%20Fancy%20Fence)  | [270A](https://codeforces.com/contest/270/problem/A) |
   | [Bit++](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/Volume%20002/282A%20-%20Bit%2B%2B) | [282A](https://codeforces.com/problemset/problem/282/A) |
   | [Cows and Primitive Roots](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/Volume%20002/284A%20-%20Cows%20and%20Primitive%20Roots) | [284A](https://codeforces.com/problemset/problem/284/A) |
 
@@ -134,7 +200,16 @@
   |:-------|:------:|
   | [Choose Two Numbers](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/Volume%20012/1206A%20-%20Choose%20Two%20Numbers) | [1206A](https://codeforces.com/contest/1206/problem/A) |
 
-## [B problems](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B) (22 problems) <a name="B"></a>
+- ### [Volume 014](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/Volume%20014) <sup>(1400 - 1499) (4 problems)</sup> <a name="v014A"></a>
+  
+  | Problem | Codeforces |
+  |:-------|:------:|
+  | [Buying Torches](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/Volume%20014/1418A%20-%20Buying%20Torches) | [1418A](https://codeforces.com/contest/1418/problem/A) |
+  | [Arena of Greed](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/Volume%20014/1425A%20-%20Arena%20of%20Greed) | [1425A](https://codeforces.com/contest/1425/problem/A) |
+  | [Avoiding Zero](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/Volume%20014/1427A%20-%20Avoiding%20Zero) | [1427A](https://codeforces.com/contest/1427/problem/A) |
+  | [Number of Apartments](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/Volume%20014/1430A%20-%20Number%20of%20Apartments) | [1430A](https://codeforces.com/contest/1430/problem/A) |
+
+## [B problems](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B) (30 problems) <a name="B"></a>
   
 - ### [Volume 000](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/Volume%20000) <sup>(0 - 99) (5 problems)</sup> <a name="v000B"></a>
   
@@ -153,11 +228,12 @@
   | [Sum of Digits](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/Volume%20001/102B%20-%20Sum%20of%20Digits) | [102B](https://codeforces.com/problemset/problem/102/B) |
   | [Taxi](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/Volume%20001/158B%20-%20Taxi) | [158B](https://codeforces.com/problemset/problem/158/B) |
 
-- ### [Volume 002](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/Volume%20002) <sup>(200 - 299) (3 problems)</sup> <a name="v002B"></a>
+- ### [Volume 002](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/Volume%20002) <sup>(200 - 299) (4 problems)</sup> <a name="v002B"></a>
   
   | Problem | Codeforces |
   |:-------|:------:|
   | [Drinks](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/Volume%20002/200B%20-%20Drinks) | [200B](https://codeforces.com/problemset/problem/200/B) |
+  | [Forming Teams](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/Volume%20002/216B%20-%20Forming%20Teams) | [216B](https://codeforces.com/contest/216/problem/B) |
   | [Effective Approach](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/Volume%20002/227B%20-%20Effective%20Approach) | [227B](https://codeforces.com/problemset/problem/227/B) |
   | [T-primes](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/Volume%20002/230B%20-%20T-primes) | [230B](https://codeforces.com/problemset/problem/230/B) |
 
@@ -201,9 +277,16 @@
   
   | Problem | Codeforces |
   |:-------|:------:|
-  | [Nick and Array](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/Volume%20011/1180B%20-%20%20Nick%20and%20Array) | [1180B](https://codeforces.com/problemset/problem/1180/B) |
+  | [Nick and Array](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/Volume%20011/1180B%20-%20Nick%20and%20Array) | [1180B](https://codeforces.com/problemset/problem/1180/B) |
 
-## [C problems](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/C) (4 problems) <a name="C"></a>
+- ### [Volume 014](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/Volume%20014) <sup>(1400 - 1499) (2 problems)</sup> <a name="v014B"></a>
+  
+  | Problem | Codeforces |
+  |:-------|:------:|
+  | [Maximum Product](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/Volume%20014/1406B%20-%20Maximum%20Product) | [1406B](https://codeforces.com/contest/1406/problem/B) |
+  | [Barrels](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/Volume%20014/1430B%20-%20Barrels) | [1430B](https://codeforces.com/contest/1430/problem/B) |
+
+## [C problems](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/C) (5 problems) <a name="C"></a>
 
 - ### [Volume 000](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/C/Volume%20000) <sup>(1 - 99) (1 problems)</sup> <a name="v000C"></a>
   
@@ -211,11 +294,12 @@
   |:-------|:------:|
   |[Registration system](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/C/Volume%20000/4C%20-%20Registration%20system) | [4C](https://codeforces.com/problemset/problem/4/C) |
 
-- ### [Volume 005](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/C/Volume%20005) <sup>(500 - 599) (1 problems)</sup> <a name="v005C"></a>
+- ### [Volume 005](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/C/Volume%20005) <sup>(500 - 599) (2 problems)</sup> <a name="v005C"></a>
 
   | Problem | Codeforces |
   |:-------|:------:|
   |[Drazil and Factorial](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/C/Volume%20005/515C%20-%20Drazil%20and%20Factorial) | [515C](https://codeforces.com/problemset/problem/515/C) |
+  |[A and B and Team Training](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/C/Volume%20005/519C%20-%20A%20and%20B%20and%20Team%20Training) | [519C](https://codeforces.com/contest/519/problem/C) |
   
 - ### [Volume 006](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/C/Volume%20006) <sup>(600 - 699) (1 problems)</sup> <a name="v006C"></a>
 
