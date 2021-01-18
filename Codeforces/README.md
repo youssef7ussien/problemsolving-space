@@ -69,7 +69,7 @@
   <tr>
     <td><a href="#v000C">Volume 000 <sup>(1 - 99)</sup></a></td>
     <td><span style="color:red">Volume 001 <sup>(100 - 199)</sup></span></td>
-    <td><span style="color:red">Volume 002 <sup>(200 - 299)</sup></span></td>
+    <td><a href="#v002C">Volume 002 <sup>(200 - 299)</sup></a></td>
     <td><span style="color:red">Volume 003 <sup>(300 - 399)</sup></span></td>
   </tr>
   <tr>
@@ -87,12 +87,38 @@
   <tr>
     <td><span style="color:red">Volume 012 <sup>(1200 - 1299)</sup></span></td>
     <td><span style="color:red">Volume 013 <sup>(1300 - 1399)</sup></span></td>
-    <td></td>
+    <td><a href="#v014C">Volume 014 <sup>(1400 - 1499)</sup></a></td>
     <td></td>
   </tr>
 </table>
 
-## [A problems](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A) (50 problems) <a name="A"></a>
+<table>
+  <tr>
+    <th colspan="2"><a href="#GYM">GYM</a></th>
+  </tr>
+  <tr>
+    <td><a href="#ARBL19">ArabellaCPC 2019</a></td>
+    <td><code>6/13 problems</code></td>
+  </tr>
+  <tr>
+    <td><a href="#JCPC19">The 2019 University of Jordan Collegiate Programming Contest</a></td>
+    <td><code>4/12 problems</code></td>
+  </tr>
+  <tr>
+    <td><a href="#ACPC18">2018 Arab Collegiate Programming Contest (ACPC 2018)</a></td>
+    <td><code>2/12 problems</code></td>
+  </tr>
+  <tr>
+    <td><a href="#ACM18">ACM International Collegiate Programming Contest, Arabella Collegiate Programming Contest (2018)</a></td>
+    <td><code>5/11 problems</code></td>
+  </tr>
+  <tr>
+    <td><a href="#ECPC18">Egyptian Collegiate Programming Contest (ECPC 2018)</a></td>
+    <td><code>3/13 problems</code></td>
+  </tr>
+</table>
+
+## [A problems](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A) (52 problems) <a name="A"></a>
 
 - ### [Volume 000](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/Volume%20000) <sup>(1 - 99) (3 problems)</sup> <a name="v000A"></a>
   
@@ -200,14 +226,16 @@
   |:-------|:------:|
   | [Choose Two Numbers](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/Volume%20012/1206A%20-%20Choose%20Two%20Numbers) | [1206A](https://codeforces.com/contest/1206/problem/A) |
 
-- ### [Volume 014](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/Volume%20014) <sup>(1400 - 1499) (4 problems)</sup> <a name="v014A"></a>
+- ### [Volume 014](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/Volume%20014) <sup>(1400 - 1499) (6 problems)</sup> <a name="v014A"></a>
   
   | Problem | Codeforces |
   |:-------|:------:|
   | [Buying Torches](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/Volume%20014/1418A%20-%20Buying%20Torches) | [1418A](https://codeforces.com/contest/1418/problem/A) |
   | [Arena of Greed](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/Volume%20014/1425A%20-%20Arena%20of%20Greed) | [1425A](https://codeforces.com/contest/1425/problem/A) |
   | [Avoiding Zero](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/Volume%20014/1427A%20-%20Avoiding%20Zero) | [1427A](https://codeforces.com/contest/1427/problem/A) |
+  | [Box is Pull](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/Volume%20014/1428A%20-%20Box%20is%20Pull) | [1428A](https://codeforces.com/contest/1428/problem/A) |
   | [Number of Apartments](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/Volume%20014/1430A%20-%20Number%20of%20Apartments) | [1430A](https://codeforces.com/contest/1430/problem/A) |
+  | [Boring Apartments](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/A/Volume%20014/1433A%20-%20Boring%20Apartments) | [1433A](https://codeforces.com/contest/1433/problem/A) |
 
 ## [B problems](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B) (30 problems) <a name="B"></a>
   
@@ -228,7 +256,7 @@
   | [Sum of Digits](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/Volume%20001/102B%20-%20Sum%20of%20Digits) | [102B](https://codeforces.com/problemset/problem/102/B) |
   | [Taxi](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/Volume%20001/158B%20-%20Taxi) | [158B](https://codeforces.com/problemset/problem/158/B) |
 
-- ### [Volume 002](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/Volume%20002) <sup>(200 - 299) (4 problems)</sup> <a name="v002B"></a>
+- ### [Volume 002](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/Volume%20002) <sup>(200 - 299) (5 problems)</sup> <a name="v002B"></a>
   
   | Problem | Codeforces |
   |:-------|:------:|
@@ -236,6 +264,7 @@
   | [Forming Teams](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/Volume%20002/216B%20-%20Forming%20Teams) | [216B](https://codeforces.com/contest/216/problem/B) |
   | [Effective Approach](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/Volume%20002/227B%20-%20Effective%20Approach) | [227B](https://codeforces.com/problemset/problem/227/B) |
   | [T-primes](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/Volume%20002/230B%20-%20T-primes) | [230B](https://codeforces.com/problemset/problem/230/B) |
+  | [Pipeline](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/Volume%20002/287B%20-%20Pipeline) | [287B](https://codeforces.com/problemset/problem/287/B) |
 
 - ### [Volume 003](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/Volume%20003) <sup>(300 - 399) (1 problems)</sup> <a name="v003B"></a>
   
@@ -243,10 +272,11 @@
   |:-------|:------:|
   | [Fence](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/Volume%20003/363B%20-%20Fence) | [363B](https://codeforces.com/problemset/problem/363/B) |
 
-- ### [Volume 004](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/Volume%20004) <sup>(400 - 499) (3 problems)</sup> <a name="v004B"></a>
+- ### [Volume 004](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/Volume%20004) <sup>(400 - 499) (4 problems)</sup> <a name="v004B"></a>
   
   | Problem | Codeforces |
   |:-------|:------:|
+  | [Kuriyama Mirai's Stones](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/Volume%20004/433B%20-%20Kuriyama%20Mirai's%20Stones) | [433B](https://codeforces.com/problemset/problem/433/B) |
   | [Worms](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/Volume%20004/474B%20-%20Worms) | [474B](https://codeforces.com/problemset/problem/474/B) |
   | [Sort the Array](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/Volume%20004/451B%20-%20Sort%20the%20Array) | [451B](https://codeforces.com/problemset/problem/451/B) |
   | [Vanya and Lanterns](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/Volume%20004/492B%20-%20Vanya%20and%20Lanterns) | [492B](https://codeforces.com/problemset/problem/492/B) |
@@ -279,14 +309,18 @@
   |:-------|:------:|
   | [Nick and Array](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/Volume%20011/1180B%20-%20Nick%20and%20Array) | [1180B](https://codeforces.com/problemset/problem/1180/B) |
 
-- ### [Volume 014](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/Volume%20014) <sup>(1400 - 1499) (2 problems)</sup> <a name="v014B"></a>
+- ### [Volume 014](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/Volume%20014) <sup>(1400 - 1499) (5 problems)</sup> <a name="v014B"></a>
   
   | Problem | Codeforces |
   |:-------|:------:|
   | [Maximum Product](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/Volume%20014/1406B%20-%20Maximum%20Product) | [1406B](https://codeforces.com/contest/1406/problem/B) |
+  | [Belted Rooms](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/Volume%20014/1428B%20-%20Belted%20Rooms) | [1428B](https://codeforces.com/contest/1428/problem/B) |
   | [Barrels](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/Volume%20014/1430B%20-%20Barrels) | [1430B](https://codeforces.com/contest/1430/problem/B) |
+  | [Yet Another Bookshelf](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/Volume%20014/1433B%20-%20Yet%20Another%20Bookshelf) | [1433B](https://codeforces.com/contest/1433/problem/B) |
+  | [Reverse Binary Strings](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/B/Volume%20014/1437B%20-%20Reverse%20Binary%20Strings) | [1437B](https://codeforces.com/contest/1437/problem/B) |
+  
 
-## [C problems](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/C) (5 problems) <a name="C"></a>
+## [C problems](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/C) (11 problems) <a name="C"></a>
 
 - ### [Volume 000](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/C/Volume%20000) <sup>(1 - 99) (1 problems)</sup> <a name="v000C"></a>
   
@@ -294,12 +328,21 @@
   |:-------|:------:|
   |[Registration system](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/C/Volume%20000/4C%20-%20Registration%20system) | [4C](https://codeforces.com/problemset/problem/4/C) |
 
-- ### [Volume 005](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/C/Volume%20005) <sup>(500 - 599) (2 problems)</sup> <a name="v005C"></a>
+- ### [Volume 002](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/C/Volume%20002) <sup>(200 - 299) (3 problems)</sup> <a name="v002C"></a>
+
+  | Problem | Codeforces |
+  |:-------|:------:|
+  |[Barcode](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/C/Volume%20002/225C%20-%20Barcode) | [225C](https://codeforces.com/problemset/problem/225/C) |
+  |[King's Path](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/C/Volume%20002/242C%20-%20King's%20Path) | [242C](https://codeforces.com/contest/242/problem/C) |
+  |[Magical Boxes](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/C/Volume%20002/270C%20-%20Magical%20Boxes) | [270C](https://codeforces.com/contest/270/problem/C) |
+
+- ### [Volume 005](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/C/Volume%20005) <sup>(500 - 599) (3 problems)</sup> <a name="v005C"></a>
 
   | Problem | Codeforces |
   |:-------|:------:|
   |[Drazil and Factorial](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/C/Volume%20005/515C%20-%20Drazil%20and%20Factorial) | [515C](https://codeforces.com/problemset/problem/515/C) |
   |[A and B and Team Training](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/C/Volume%20005/519C%20-%20A%20and%20B%20and%20Team%20Training) | [519C](https://codeforces.com/contest/519/problem/C) |
+  |[Ice Cave](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/C/Volume%20005/540C%20-%20Ice%20Cave) | [540C](https://codeforces.com/contest/540/problem/C) |
   
 - ### [Volume 006](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/C/Volume%20006) <sup>(600 - 699) (1 problems)</sup> <a name="v006C"></a>
 
@@ -312,3 +355,48 @@
   | Problem | Codeforces |
   |:-------|:------:|
   |[K-th Not Divisible by n](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/C/Volume%20013/1352C%20-%20K-th%20Not%20Divisible%20by%20n) | [1352C](https://codeforces.com/problemset/problem/1352/C) |
+
+- ### [Volume 014](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/C/Volume%20014) <sup>(1400 - 1499) (2 problems)</sup> <a name="v014C"></a>
+
+  | Problem | Codeforces |
+  |:-------|:------:|
+  |[ABBB](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/C/Volume%20014/1428C%20-%20ABBB) | [1428C](https://codeforces.com/contest/1428/problem/C) |
+  |[Dominant Piranha](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/C/Volume%20014/1433C%20-%20Dominant%20Piranha) | [1433C](https://codeforces.com/contest/1433/problem/C) |
+
+## [GYM](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/GYM) (20 problems)<a name="GYM"></a>
+
+- ### [ArabellaCPC 2019](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/GYM/ArabellaCPC%202019) <sup>(6 problems)</sup> <a name="ARBL19"></a> [↗](https://codeforces.com/gym/102263)
+  
+  |   ↗   | Problem |   ↗   | Problem |
+  |:----: | :-----: | :----: | :-----: |
+  | [**A**](https://codeforces.com/gym/102263/problem/A) | [Is It Easy ?](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/GYM/ArabellaCPC%202019/A%20-%20Is%20It%20Easy) | [**B**](https://codeforces.com/gym/102263/problem/B) | [Road to Arabella](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/GYM/ArabellaCPC%202019/B%20-%20Road%20to%20Arabella) |
+  | [**C**](https://codeforces.com/gym/102263/problem/C) | [Check The Text](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/GYM/ArabellaCPC%202019/C%20-%20Check%20The%20Text) | [**H**](https://codeforces.com/gym/102263/problem/H) | [Steaks](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/GYM/ArabellaCPC%202019/H%20-%20Steaks) |
+  | [**J**](https://codeforces.com/gym/102263/problem/J) | [Thanos Power](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/GYM/ArabellaCPC%202019/J%20-%20Thanos%20Power) | [**M**](https://codeforces.com/gym/102263/problem/M) | [Two Operations](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/GYM/ArabellaCPC%202019/M%20-%20Two%20Operations) |
+  
+- ### [The 2019 University of Jordan Collegiate Programming Contest](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/GYM/The%202019%20University%20of%20Jordan%20Collegiate%20Programming%20Contest) <sup>(4 problems)</sup> <a name="JCPC19"></a> [↗](https://codeforces.com/gym/102267)
+  
+  |   ↗   | Problem |   ↗   | Problem |
+  |:----: | :-----: | :----: | :-----: |
+  | [**A**](https://codeforces.com/gym/102267/problem/A) | [Picky Eater](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/GYM/The%202019%20University%20of%20Jordan%20Collegiate%20Programming%20Contest/A%20-%20Picky%20Eater) | [**B**](https://codeforces.com/gym/102267/problem/B) | [Primes](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/GYM/The%202019%20University%20of%20Jordan%20Collegiate%20Programming%20Contest/B%20-%20Primes) |
+  | [**C**](https://codeforces.com/gym/102267/problem/C) | [Matryoshka Dolls](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/GYM/The%202019%20University%20of%20Jordan%20Collegiate%20Programming%20Contest/C%20-%20Matryoshka%20Dolls) | [**H**](https://codeforces.com/gym/102267/problem/H) | [Circle of Polygon](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/GYM/The%202019%20University%20of%20Jordan%20Collegiate%20Programming%20Contest/H%20-%20Circle%20of%20Polygon) |
+  
+- ### [2018 Arab Collegiate Programming Contest (ACPC 2018)](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/GYM/2018%20Arab%20Collegiate%20Programming%20Contest%20(ACPC%202018)) <sup>(2 problems)</sup> <a name="ACPC18"></a> [↗](https://codeforces.com/gym/101991)
+  
+  |   ↗   | Problem |   ↗   | Problem |
+  |:----: | :-----: | :----: | :-----: |
+  | [**C**](https://codeforces.com/gym/101991/problem/C) | [Coffee](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/GYM/2018%20Arab%20Collegiate%20Programming%20Contest%20(ACPC%202018)/C%20-%20Coffee) | [**I**](https://codeforces.com/gym/101991/problem/I) | [Ice-cream Knapsack](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/GYM/2018%20Arab%20Collegiate%20Programming%20Contest%20(ACPC%202018)/I%20-%20Ice-cream%20Knapsack) |
+    
+- ### [ACM International Collegiate Programming Contest, Arabella Collegiate Programming Contest (2018)](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/GYM/ACM%20International%20Collegiate%20Programming%20Contest,%20Arabella%20Collegiate%20Programming%20Contest%20(2018)) <sup>(5 problems)</sup> <a name="ACM18"></a> [↗](https://codeforces.com/gym/101972)
+  
+  |   ↗   | Problem |   ↗   | Problem |
+  |:----: | :-----: | :----: | :-----: |
+  | [**A**](https://codeforces.com/gym/101972/problem/A) | [Multiplication Dilemma](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/GYM/ACM%20International%20Collegiate%20Programming%20Contest,%20Arabella%20Collegiate%20Programming%20Contest%20(2018)/A%20-%20Multiplication%20Dilemma) | [**D**](https://codeforces.com/gym/101972/problem/D) | [Wooden Fence](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/GYM/ACM%20International%20Collegiate%20Programming%20Contest,%20Arabella%20Collegiate%20Programming%20Contest%20(2018)/D%20-%20Wooden%20Fence) |
+  | [**E**](https://codeforces.com/gym/101972/problem/E) | [Stupid Submissions](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/GYM/ACM%20International%20Collegiate%20Programming%20Contest,%20Arabella%20Collegiate%20Programming%20Contest%20(2018)/E%20-%20Stupid%20Submissions) | [**H**](https://codeforces.com/gym/101972/problem/H) | [Beautiful Substrings](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/GYM/ACM%20International%20Collegiate%20Programming%20Contest,%20Arabella%20Collegiate%20Programming%20Contest%20(2018)/H%20-%20Beautiful%20Substrings) |
+  | [**K**](https://codeforces.com/gym/101972/problem/K) | [Cyclic Shift](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/GYM/ACM%20International%20Collegiate%20Programming%20Contest,%20Arabella%20Collegiate%20Programming%20Contest%20(2018)/K%20-%20Cyclic%20Shift) |  |  |
+    
+- ### [Egyptian Collegiate Programming Contest (ECPC 2018)](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/GYM/Egyptian%20Collegiate%20Programming%20Contest%20(ECPC%202018)) <sup>(3 problems)</sup> <a name="ECPC18"></a> [↗](https://codeforces.com/gym/101992)
+  
+  |   ↗   | Problem |   ↗   | Problem |
+  |:----: | :-----: | :----: | :-----: |
+  | [**B**](https://codeforces.com/gym/101992/problem/B) | [The first task](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/GYM/Egyptian%20Collegiate%20Programming%20Contest%20(ECPC%202018)/B%20-%20The%20first%20task) | [**F**](https://codeforces.com/gym/101992/problem/F) | [MO Salah running down the wing](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/GYM/Egyptian%20Collegiate%20Programming%20Contest%20(ECPC%202018)/F%20-%20MO%20Salah%20running%20down%20the%20wing) |
+  | [**H**](https://codeforces.com/gym/101992/problem/H) | [Find the path](https://github.com/youssef7ussien/ProblemSolving/tree/master/Codeforces/GYM/Egyptian%20Collegiate%20Programming%20Contest%20(ECPC%202018)/H%20-%20Find%20the%20path) |  |  |
