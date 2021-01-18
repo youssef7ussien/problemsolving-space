@@ -120,6 +120,12 @@
     | [Sherlock and Anagrams](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Problem%20Solving/Algorithms/Strings/Sherlock%20and%20Anagrams) | [HackerRank↗](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem) |
     | [Common Child](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Problem%20Solving/Algorithms/Strings/Common%20Child) | [HackerRank↗](https://www.hackerrank.com/challenges/common-child/problem) |
 
+  - ####  [Sorting](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Problem%20Solving/Algorithms/Sorting) (1 problems) <a name="Sorting"></a>
+
+    | Problem | ... |
+    | :-------- | :----------: |
+    | [Fraudulent Activity Notifications](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Problem%20Solving/Algorithms/Sorting/Fraudulent%20Activity%20Notifications) | [HackerRank↗](https://www.hackerrank.com/challenges/Fraudulent-Activity-Notifications) |
+
   - ####  [Greedy](https://github.com/youssef7ussien/ProblemSolving/tree/master/HackerRank/Problem%20Solving/Algorithms/Greedy) (1 problems) <a name="Greedy"></a>
 
     | Problem | ... |
