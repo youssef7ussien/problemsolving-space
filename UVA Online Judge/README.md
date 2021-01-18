@@ -32,50 +32,51 @@
     </tr>
   </table>
 
-## [Volume 2](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%202) (1 problems) <a name="v002"></a>
+## [Volume 002](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%20002) (1 problems) <a name="v002"></a>
 
 | Problem |  UVA  | Topic |
 | :------ | :---: | :---- |
-| [Divisors](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%202/294%20-%20Divisors) | [294](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=230) | Math, Primes |
+| [Divisors](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%20002/294%20-%20Divisors) | [294](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=230) | Math, Primes |
 
-## [Volume 3](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%203) (2 problems) <a name="v003"></a>
-
-| Problem |  UVA  | Topic |
-| :------ | :---: | :---- |
-| [Combinations](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%203/369%20-%20Combinations) | [369](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=305) | Math |
-| [Big Mod](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%203/374%20-%20Big%20Mod) | [374](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=310) | Math |
-
-## [Volume 4](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%204) (2 problems) <a name="v004"></a>
+## [Volume 003](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%20003) (2 problems) <a name="v003"></a>
 
 | Problem |  UVA  | Topic |
 | :------ | :---: | :---- |
-| [Overlapping Rectangles](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%204/460%20-%20Overlapping%20Rectangles) | [460](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=401) | Geometry |
-| [Points in Figures Rectangles](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%204/476%20-%20Points%20in%20Figures%20Rectangles) | [476](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=417) | Geometry |
+| [Combinations](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%20003/369%20-%20Combinations) | [369](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=305) | Math |
+| [Big Mod](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%20003/374%20-%20Big%20Mod) | [374](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=310) | Math |
 
-## [Volume 5](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%205) (2 problems) <a name="v005"></a>
-
-| Problem |  UVA  | Topic |
-| :------ | :---: | :---- |
-| [Just the Facts](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%205/568%20-%20Just%20the%20Facts) | [568](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=509) |  |
-| [Prime Factors](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%205/583%20-%20Prime%20Factors) | [583](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=524) | Number Theory, Primes |
-
-## [Volume 6](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%206) (1 problems) <a name="v006"></a>
+## [Volume 004](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%20004) (3 problems) <a name="v004"></a>
 
 | Problem |  UVA  | Topic |
 | :------ | :---: | :---- |
-| [500!](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%206/623%20-%20500!) | [623](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=564) | BigNum |
+| [Knight Moves](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%20004/439%20-%20Knight%20Moves) | [439](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=380) | Graph |
+| [Overlapping Rectangles](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%20004/460%20-%20Overlapping%20Rectangles) | [460](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=401) | Geometry |
+| [Points in Figures Rectangles](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%20004/476%20-%20Points%20in%20Figures%20Rectangles) | [476](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=417) | Geometry |
 
-## [Volume 8](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%208) (1 problems) <a name="v008"></a>
-
-| Problem |  UVA  | Topic |
-| :------ | :---: | :---- |
-| [Walking on the Safe Side](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%208/825%20-%20Walking%20on%20the%20Safe%20Side) | [825](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=766) |  |
-
-## [Volume 9](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%209) (1 problems) <a name="v009"></a>
+## [Volume 005](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%20005) (2 problems) <a name="v005"></a>
 
 | Problem |  UVA  | Topic |
 | :------ | :---: | :---- |
-| [Permutations](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%209/941%20-%20Permutations) | [941](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=882) | Permutations |
+| [Just the Facts](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%20005/568%20-%20Just%20the%20Facts) | [568](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=509) |  |
+| [Prime Factors](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%20005/583%20-%20Prime%20Factors) | [583](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=524) | Number Theory, Primes |
+
+## [Volume 006](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%20006) (1 problems) <a name="v006"></a>
+
+| Problem |  UVA  | Topic |
+| :------ | :---: | :---- |
+| [500!](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%20006/623%20-%20500!) | [623](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=564) | BigNum |
+
+## [Volume 008](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%20008) (1 problems) <a name="v008"></a>
+
+| Problem |  UVA  | Topic |
+| :------ | :---: | :---- |
+| [Walking on the Safe Side](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%20008/825%20-%20Walking%20on%20the%20Safe%20Side) | [825](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=766) |  |
+
+## [Volume 009](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%20009) (1 problems) <a name="v009"></a>
+
+| Problem |  UVA  | Topic |
+| :------ | :---: | :---- |
+| [Permutations](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%20009/941%20-%20Permutations) | [941](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=882) | Permutations |
 ## [Volume 100](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%20100) (1 problems) <a name="v100"></a>
 
 | Problem |  UVA  | Topic |
@@ -101,17 +102,19 @@
 | :------ | :---: | :---- |
 | [Ordering Tasks](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%20103/10305%20-%20Ordering%20Tasks) | [10305](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1246) | Topological sort |
 
-## [Volume 105](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%20105) (1 problems) <a name="v105"></a>
+## [Volume 105](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%20105) (2 problems) <a name="v105"></a>
 
 | Problem |  UVA  | Topic |
 | :------ | :---: | :---- |
 | [Digit Primes](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%20105/10533%20-%20Digit%20Primes) | [10533](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1474) | Primes |
+| [Wavio Sequence](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%20105/10534%20-%20Wavio%20Sequence) | [10534](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1475) |  |
 
-## [Volume 106](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%20106) (1 problems) <a name="v106"></a>
+## [Volume 106](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%20106) (2 problems) <a name="v106"></a>
 
 | Problem |  UVA  | Topic |
 | :------ | :---: | :---- |
 | [The Playboy Chimp](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%20106/10611%20-%20The%20Playboy%20Chimp) | [10611](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1552) | Binary Search |
+| [Largest Block](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%20106/10667%20-%20Largest%20Block) | [10667](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1608) |  |
 
 ## [Volume 121](https://github.com/youssef7ussien/ProblemSolving/tree/master/UVA%20Online%20Judge/Volume%20121) (1 problems) <a name="v121"></a>
 
