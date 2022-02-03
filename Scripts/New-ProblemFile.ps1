@@ -24,7 +24,7 @@ function New-ProblemFile {
         $IOFolder = "samples"
         $fullPath = "$(Get-Location)\$parentFolder\"
         $fileName = "main.cpp"
-        $tempCodePath = "D:\IMPORTANT\Projects\Programs C++\Problem Solving\Templates\temp_code.cpp"
+        $tempCodePath = "$(Get-Location)\Templates\temp_code.cpp"
         $Judges = @{
             CF   = "Codeforces";
             UVA  = "UVA Online Judge";
