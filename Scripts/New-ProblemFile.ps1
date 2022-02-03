@@ -21,6 +21,7 @@ function New-ProblemFile {
         $ProblemName = $ProblemName.Trim()
 
         $parentFolder = "Problems Solutions"
+        $BinFolder = "bin"
         $IOFolder = "samples"
         $fullPath = "$(Get-Location)\$parentFolder\"
         $fileName = "main.cpp"
@@ -49,9 +50,8 @@ function New-ProblemFile {
             return  "Volume $(([string]$Code).PadLeft($trailing, '0'))"
         }
 
-        function New-File() { 
-            mkdir $fullPath
-            mkdir $fullPath/$IOFolder
+        function New-File() {
+            mkdir $fullPath, $fullPath/$IOFolder, $fullPath/$BinFolder
             
             $FileContent = ""
             $IOFilesPrefixName = "$($IOFolder)\__$($OnlineJudge)_$($ProblemCode)"
