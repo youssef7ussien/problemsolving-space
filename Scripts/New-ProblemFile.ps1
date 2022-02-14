@@ -2,7 +2,7 @@ function New-ProblemFile {
     [CmdletBinding()]
     param (
         [Parameter(Mandatory)]
-        [ValidateSet("CF", "UVA", "SPOJ")]
+        [ValidateSet("CF", "UVA", "SPOJ", "CSES")]
         [string]$OnlineJudge,
         [Parameter(Mandatory)]
         [string]$ProblemCode,
@@ -14,7 +14,26 @@ function New-ProblemFile {
         [Switch]$NoNamedFile,
         [Switch]$NoConfirm
     )
-    
+
+    DynamicParam {
+        if($OnlineJudge -eq 'CSES') {
+            $parameterAttribute = [System.Management.Automation.ParameterAttribute]@{
+                Mandatory = $true
+            }
+
+            $attributeCollection = [System.Collections.ObjectModel.Collection[System.Attribute]]::new()
+            $attributeCollection.Add($parameterAttribute)
+
+            $CSESProblemSet = [System.Management.Automation.RuntimeDefinedParameter]::new(
+                'ProblemSet', [string], $attributeCollection
+            )
+
+            $paramDictionary = [System.Management.Automation.RuntimeDefinedParameterDictionary]::new()
+            $paramDictionary.Add('ProblemSet', $CSESProblemSet)
+            return $paramDictionary
+        }
+    }
+
     begin {
         $OnlineJudge = $OnlineJudge.trim().ToUpper()
         $ProblemCode = $ProblemCode.Trim().ToUpper()
@@ -31,6 +50,7 @@ function New-ProblemFile {
             UVA  = "UVA Online Judge";
             SPOJ = "SPOJ - Sphere Online Judge";
             HR   = "HackerRank";
+            CSES   = "CSES";
         }
     }
     
@@ -77,7 +97,7 @@ function New-ProblemFile {
             New-Item -Path $fullPath -Name $fileName -ItemType File -Value $FileContent
             code.cmd "$fullPath\$fileName"
             
-            if (!$NoTempCode) {
+            if ($IOFiles) {
                 code.cmd -d "$($fullPath)\$($IOFilesPrefixName)_origin.out" "$($fullPath)\$($IOFilesPrefixName).out"
             }
         }
@@ -115,7 +135,7 @@ function New-ProblemFile {
                 $fullPath += $Judges['UVA'] + "\"
                 
                 if (-Not (Test-Path $fullPath)) {
-                    Write-Output "Invalid $($Judges['CF']) path, You should found `'$parentFolder\$($Judges['UVA'])`' directory."
+                    Write-Output "Invalid $($Judges['UVA']) path, You should found `'$parentFolder\$($Judges['UVA'])`' directory."
                     return
                 }
 
@@ -149,6 +169,28 @@ function New-ProblemFile {
                     $fileName = "SPOJ_" + $ProblemCode + ".cpp"
                 }
 
+                Break
+            }
+            { $_ -eq 'CSES' } { 
+                $fullPath += $Judges['CSES'] + "\"
+                
+                if (-Not (Test-Path $fullPath)) {
+                    Write-Output "Invalid $($Judges['CSES']) path, You should found `'$parentFolder\$($Judges['CSES'])`' directory."
+                    return
+                }
+
+                if ($ProblemCode -match '^[0-9]{1,6}$') {
+                    $fullPath += $PSBoundParameters.ProblemSet + "\" + $ProblemCode + " - " + $ProblemName
+
+                    if (!$NoNamedFile) {
+                        $fileName = "CSES_" + $ProblemCode + ".cpp"
+                    }
+                }
+                else {
+                    Write-Output "Problem Code `"$ProblemCode`" is not valid."
+                    return
+                }
+                
                 Break
             }
             Default {
