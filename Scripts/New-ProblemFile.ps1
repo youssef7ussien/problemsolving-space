@@ -111,15 +111,15 @@ function New-ProblemFile {
                     return
                 }
 
-                if ($ProblemCode -match '^[0-9]{1,4}[a-zA-z]{1,2}$') {
+                if ($ProblemCode -match '^[0-9]{1,4}[a-zA-z]{1}[1-9a-zA-Z]?$') {
                     $problemNumber, $problemChar = $ProblemCode, $ProblemCode
 
-                    $problemNumber = $problemNumber -replace '([A-Za-z]+)', ''
-                    $problemChar = $problemChar -replace '([0-9]+)', ''
+                    $problemNumber = $problemNumber -replace '[A-Za-z]{1}[A-Za-z1-9]?$', ''
+                    $problemChar = $problemChar -replace '^[0-9]+', ''
                    
                     $folderName = $problemNumber + $problemChar + " - " + $ProblemName
                     
-                    $fullPath += $problemChar + "\" + (Get-VolumeNumber -Code $problemNumber) + "\" + $folderName
+                    $fullPath += $problemChar[0] + "\" + (Get-VolumeNumber -Code $problemNumber) + "\" + $folderName
 
                     if (!$NoNamedFile) {
                         $fileName = "CF_" + $problemNumber + $problemChar + ".cpp"
