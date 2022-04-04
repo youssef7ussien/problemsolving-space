@@ -2,7 +2,7 @@ function New-ProblemFile {
     [CmdletBinding()]
     param (
         [Parameter(Mandatory)]
-        [ValidateSet("CF", "UVA", "SPOJ", "CSES")]
+        [ValidateSet("CF", "UVA", "SPOJ", "CSES", "TEMP")]
         [string]$OnlineJudge,
         [Parameter(Mandatory)]
         [string]$ProblemCode,
@@ -50,7 +50,8 @@ function New-ProblemFile {
             UVA  = "UVA Online Judge";
             SPOJ = "SPOJ - Sphere Online Judge";
             HR   = "HackerRank";
-            CSES   = "CSES";
+            CSES = "CSES";
+            TEMP = "Uncategorized";
         }
     }
     
@@ -97,9 +98,9 @@ function New-ProblemFile {
             New-Item -Path $fullPath -Name $fileName -ItemType File -Value $FileContent
             code.cmd "$fullPath\$fileName"
             
-            if ($IOFiles) {
-                code.cmd -d "$($fullPath)\$($IOFilesPrefixName)_origin.out" "$($fullPath)\$($IOFilesPrefixName).out"
-            }
+            # if ($IOFiles) {
+            #     code.cmd -d "$($fullPath)\$($IOFilesPrefixName)_origin.out" "$($fullPath)\$($IOFilesPrefixName).out"
+            # }
         }
 
         switch ($OnlineJudge) {
@@ -191,6 +192,23 @@ function New-ProblemFile {
                     return
                 }
                 
+                Break
+            }
+            { $_ -eq 'TEMP' } { 
+                $fullPath += $Judges['TEMP'] + "\"
+                
+                if (-Not (Test-Path $fullPath)) {
+                    Write-Output "Invalid $($Judges['TEMP']) path, You should found `'$parentFolder\$($Judges['TEMP'])`' directory."
+                    return
+                }
+
+                $folderName = $ProblemCode + " - " + $ProblemName
+                $fullPath += $folderName
+                
+                if (!$NoNamedFile) {
+                    $fileName = $ProblemCode + ".cpp"
+                }
+
                 Break
             }
             Default {
