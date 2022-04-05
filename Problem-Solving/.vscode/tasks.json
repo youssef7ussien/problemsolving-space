@@ -1,0 +1,114 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Get Tamplate Code",
+            "type": "shell",
+            "command": "Copy-Item",
+            "args": [
+                "-Path",
+                "${workspaceFolder}\\Templates\\temp_code.cpp",
+                "-Destination",
+                "${fileDirname}\\${fileBasenameNoExtension}.cpp"
+            ]
+        },
+        {
+            "label": "Open I/O files",
+            "type": "shell",
+            "command": "code",
+            "args": [
+                "${fileDirname}\\samples\\__${fileBasenameNoExtension}.in",
+                ";",
+                "code",
+                "-d",
+                "${fileDirname}\\samples\\__${fileBasenameNoExtension}_origin.out",
+                "${fileDirname}\\samples\\__${fileBasenameNoExtension}.out"
+            ],
+            "detail": "Open I/O files from samples folder."
+        },
+        {
+            "label": "New Problem File",
+            "type": "shell",
+            "command": "& { . '${workspaceFolder}\\..\\Tools\\New-ProblemFile.ps1' ; New-ProblemFile -OnlineJudge ${input:OJ} -ProblemCode ${input:ProblemID} -ProblemName '${input:ProblemName}' -IOFiles -NoConfirm}",
+            "problemMatcher": [],
+            "detail": "Create new file in custom folder based on problem name and open it."
+        },
+        {
+            "label": "New CSES Problem File",
+            "type": "shell",
+            "command": "& { . '${workspaceFolder}\\..\\Tools\\New-ProblemFile.ps1' ; New-ProblemFile -OnlineJudge CSES -ProblemCode ${input:ProblemID} -ProblemName '${input:ProblemName}' -problemSet '${input:CSESSet}' -IOFiles -NoConfirm}",
+            "problemMatcher": [],
+            "detail": "Create new file in custom folder based on problem name for CSES and open it."
+        },
+        {
+            "type": "cppbuild",
+            "label": "C/C++: g++.exe build active file",
+            // "command": "C:\\MinGW\\bin\\g++.exe",
+            "command": "C:\\msys64\\mingw64\\bin\\g++.exe",
+            "args": [
+                "-D",
+                "__VS_DEBUG",
+                "-std=c++14",
+                "-Wall",
+                "-Wextra",
+                "-O2",
+                "-g",
+                "${file}",
+                "-o",
+                "${fileDirname}\\bin\\${fileBasenameNoExtension}.exe",
+            ],
+            "options": {
+                "cwd": "${fileDirname}"
+            },
+            "problemMatcher": ["$gcc"],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "detail": "compiler: C:\\msys64\\mingw64\\bin\\g++.exe"
+        }
+    ],
+    "inputs": [
+        {
+            "id": "OJ",
+            "description": "What is the Online-Judge?",
+            "type": "pickString",
+            "options": [
+                "CF",
+                "UVA",
+                "SPOJ",
+                "CSES",
+                "TEMP",
+            ],
+            "default": "CF",
+        },
+        {
+            "id": "ProblemID",
+            "description": "What is the problem ID?",
+            "type": "promptString",
+        },
+        {
+            "id": "ProblemName",
+            "description": "What is the problem name?",
+            "type": "promptString",
+        },
+        {
+            "id": "CSESSet",
+            "description": "What is the set of this problem?",
+            "type": "pickString",
+            "options": [
+                "Introductory Problems",
+                "Sorting and Searching",
+                "Dynamic Programming",
+                "Graph Algorithms",
+                "Range Queries",
+                "Tree Algorithms",
+                "Mathematics",
+                "String Algorithms",
+                "Geometry",
+                "Advanced Techniques",
+                "Additional Problems",
+            ],
+        }
+    ]
+}
