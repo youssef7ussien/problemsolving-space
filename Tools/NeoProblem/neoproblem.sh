@@ -3,7 +3,7 @@
 # version
 # declare -r neoproblem_version="0.0.1"
 declare -r MAIN_FOLDER="$PROBLEM_SOLVING/ProblemSolving"
-declare -r TEMPLATE_FOLDER="$MAIN_FOLDER/Templates"
+declare -r TEMPLATE_FOLDER="$PROBLEM_SOLVING/Templates"
 declare -r BIN_FOLDER="bin"
 declare -r IO_FOLDER="samples"
 declare -r -A JUDGE_NAMES='([CF]="Codeforces")'
@@ -13,7 +13,7 @@ usage() {
 }
 
 die() {
-    echo "[$(date +'%Y-%m-%dT%H:%M:%S%z')]: $*" >&2
+    printf "[%s]: %s\n" "$(date +'%Y-%m-%dT%H:%M:%S%z')" "$*" >&2
     exit 1
 }
 
@@ -24,10 +24,15 @@ create_problem_file() {
     temp="\/**\n * Title: \"$problem_name\", ${JUDGE_NAMES[$online_judge]} problem. \n * Date: $(date '+%A, %d %B %Y') \n *\n *\/\n"
 
     case "$lang_program" in
-        "cpp")  cat "$TEMPLATE_FOLDER/temp_code.cpp" > "$folder_path/${1}.cpp"
-            sed -i "1s/^/$temp/" "$folder_path/${1}.cpp" ;;
-        "java") cat "$TEMPLATE_FOLDER/temp_code.java" > "$folder_path/${1}.java"
-            sed -i "1s/^/$temp/" "$folder_path/${1}.java" ;;
+        "cpp")
+            cat "$TEMPLATE_FOLDER/temp_code.cpp" > "$folder_path/${1}.cpp"
+            sed -i "1s/^/$temp/" "$folder_path/${1}.cpp"
+            ;;
+        "java")
+            cat "$TEMPLATE_FOLDER/temp_code.java" > "$folder_path/${1}.java"
+            sed -i "1s/^/$temp/" "$folder_path/${1}.java"
+            sed -i -E "s/^(public class) temp_code (\{)/\1 ${1} \2/" "$folder_path/${1}.java"
+            ;;
     esac
 
 }
@@ -78,7 +83,7 @@ new_cf_problem() {
         *) cf_div="Codeforces Unrated Rounds" ;;
     esac
 
-    folder_path+="/Codeforces/$cf_div/$problem_tag/$problem_char - $problem_name"
+    folder_path+="/Codeforces/$cf_div/$problem_tag/$folder_name"
     create_problem_file "CF_$problem_number$problem_char"
 }
 
