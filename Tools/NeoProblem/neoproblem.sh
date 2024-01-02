@@ -62,11 +62,13 @@ new_cf_problem() {
     if [[ ! "$problem_code" =~ ^[1-9][0-9]{1,3}[A-Z]{1}[1-9A-Z]?$ ]]; then
         die "ERROR: Problem code '$problem_code' is not valid for codeforces problems."
     fi
+
     local problem_number=$( grep -oE '^[0-9]*' <<<"$problem_code" )
     local problem_char=$( grep -oE '[A-Z].*' <<<"$problem_code" )
-    local folder_name="$problem_number$problem_char - $problem_name"
 
     [[ -z "$problem_name" || -z "$problem_tag" ]] && get_cf_info
+
+    local folder_name="$problem_number$problem_char - $problem_name"
 
     problem_tag=$(tr '/\\|<>:"*?' '_' <<<"$problem_tag")
 
@@ -150,8 +152,7 @@ main() {
                 fi
                 ;;
             *)
-                break
-                ;;
+                break ;;
         esac
 
         shift
