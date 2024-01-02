@@ -3,7 +3,7 @@
     //     "iostream": "cpp"
     // },
     "code-runner.executorMap": {
-        "cpp": "cd $dir && g++ -D __DEBUG -std=c++14 -Wall -Wextra -O2 $fileName -o bin\\$fileNameWithoutExt && bin\\$fileNameWithoutExt",
+        "cpp": "cd $dirWithoutTrailingSlash && g++ -D __DEBUG -std=c++14 -Wall -Wextra -O2 -g -O2 -fsanitize=address -fsanitize=undefined -D_GLIBCXX_DEBUG $fileName -o bin/$fileNameWithoutExt && bin/$fileNameWithoutExt",
         "code-runner.clearPreviousOutput": false,
     },
     "explorer.autoReveal": false,
