@@ -1,3 +1,8 @@
+> [!WARNING]
+> This project is currently under active development.
+> The information, features, and data provided in this repository may not be up-to-date or complete.
+> I am continually working to improve and enhance the project.
+
 # Problem-Solving
 
 This repo contains my solution to problems.
